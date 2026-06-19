@@ -1,1 +1,0 @@
-静态电影网站已生成。首页 index.html，分类页 categories.html，排行榜 ranking.html，详情页在 movies/ 目录。
